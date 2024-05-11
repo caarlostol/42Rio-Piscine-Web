@@ -1,0 +1,4 @@
+Pasta de entrega : ex03/
+Ficheiros para entregar : count_files.sh
+Funções autorizadas : Nenhuma
+• Escreva uma linha de comando que contabilize e exiba o número de arquivos regulares e diretórios atuais.

@@ -1,0 +1,12 @@
+Exercício : 00
+Exercício 00 : O básico
+Pasta de entrega : ex00/
+Ficheiros para entregar : Nenhum
+Funções autorizadas : Nenhuma
+
+• Crie uma pasta missao_42 na raiz do seu diretório home e navege até ela.
+• Crie uma nova pasta cell00 e navegue para ela.
+• Crie uma nova pasta ex00. Não coloque nada dentro dela.
+• A partir de agora, todos os exercícios devem estar na pasta correta. 
+
+Exercício 00 na pasta ex00, Exercício 01 na pasta ex01, etc... Você entendeu a lógica

@@ -1,0 +1,8 @@
+Pasta de entrega : ex00/
+Ficheiros para entregar : responsive.html responsive.css
+Funções autorizadas : Nenhuma
+Copie sua tabela da célula 1-5 e torne-a responsiva ao redimensionamento do navegador.
+• A tabela deve encolher.
+• A tablea deve cobrir a pagina inteira.
+• Faça o que quiser, mas não dê ouvidos aos profissionais de Javascript que irão dizer
+que não pode ser feito sem ele. Fique no CSS.

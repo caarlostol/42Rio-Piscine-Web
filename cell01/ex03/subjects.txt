@@ -1,0 +1,17 @@
+Pasta de entrega : ex04/
+Ficheiros para entregar : basics.html
+Funções autorizadas : Nenhuma
+Crie uma página web que contenha os seguintes elementos:
+• Pink como cor de fundo (“Pink ? O que tem de errado com pink?”). Seja cuidadoso,
+isso não é uma escolha aleatória.
+• “Basics” como o titúlo da aba de navegação.
+• Um título -bem grande- em branco, centralizado, que contenha pelo menos um
+caracter especial.
+• Duas imagens lado a lado representando compras online.
+• Abaixo de cada imagem, um link de acordo com o website.
+• Abaixo disso, uma linha horizontal que separa a pagina (não importa o tamanho
+da janela).
+• Por fim, abaixo dessa linha, alinhado no lado direito da pagina, em itálico e com
+uma fonte monospace, o simbolo de copyright, seu login, e o ano atual. (“© wil
+2024”).
+Nota: Esse exercício deve ser consumido com moderação.

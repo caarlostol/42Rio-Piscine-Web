@@ -1,0 +1,15 @@
+.about-thda-sil {
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+	height: 100vh; 
+  }
+  
+  .center-about-thda-sil {
+	text-align: center; 
+  }
+  
+  .center-about-thda-sil img {
+	max-width: 100%;
+  }
+  

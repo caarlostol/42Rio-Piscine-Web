@@ -1,0 +1,4 @@
+Pasta de entrega : ex05/
+Ficheiros para entregar : build.sh
+Funções autorizadas : Nenhuma
+• Escreva um programa build.sh que criará pastas usando o argumento deste programa adicionando "ex"ao início do nome.

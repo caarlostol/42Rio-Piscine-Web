@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Meta tags -->
+	<meta charset="UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<!-- Title -->
+	<title>Rush</title>
+	<!-- CSS -->
+	<link rel="stylesheet" href="css/extends.css"/>
+	<!-- Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet"/>
+</head>
+<body>
+	<!-- Navbar -->
+	<nav class="navbar">
+		<div class="navbar__content max-width mb-0">
+			<a href="#top">
+				<img height="50" width="100" src="assets/42.png" alt="Rush" />
+			</a>
+			<ul class="navbar__links">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="#top">Top</a></li>
+				<li><a href="#about-chayashi">Personal Info</a></li>
+				<li><a href="#skills-chayashi">Skills and Experience</a></li>
+				<li><a href="#footer-chayashi">Contact</a></li>
+			</ul>
+			<div class="navbar__mobile">
+				<img src="assets/menu.svg" alt="menu" class="burguer" />
+				<ul class="mobile__links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="#top">Top</a></li>
+					<li><a href="#about-chayashi">Personal Info</a></li>
+					<li><a href="#skills-chayashi">Skills and Experience</a></li>
+					<li><a href="#footer-chayashi">Contact</a></li>
+				</ul>
+			</div>
+			<button class="btn btn-primary" onclick="toggleDarkMode()">Toggle dark mode</button>
+		</div>
+	</nav>
+
+	<!--About-->
+	<main class="about-chayashi" id="about-chayashi">
+				<section class="center-about-chayashi">
+					<img src="assets/chayashi.png" alt="42" class="42" />
+					<h2 class="secondary-title">Carlos Tol Melo Hayashida</h2>
+					<p>Brazilian Marine Corps Corporal</p>
+				</section>
+	</main>
+
+	<!-- Skills -->
+	<section id="skills-chayashi" class="skills">
+		<div class="skills__content max-width">
+			<h3>My skills</h3>
+			<div class="image-container">
+				<img height="40" height="70" src="assets/notebook.png" alt="Laptop"/>
+				<img src="assets/files.png" alt="Files"/>
+			</div>
+				<ul>
+					<li>C programming</li>
+					<li>Git</li>
+					<li>Front-end Development</li>
+				</ul>
+			<h3>My Experience</h3>
+			<p>Brazilian Marine Corps (2014 - Present)</p>
+			<ul class="skills-ul">
+				<li class="skills__item"></li>
+			</ul>
+		</div>
+	</section>
+
+	<!-- Footer -->
+	<footer id="footer-chayashi">
+		<div class="footer__content max-width mb-0">
+			<h2 class="tertiary-title mb-s">Contact me</h2>
+			<p class="mb-m">
+				I would be happy to know more about your projects and how we can
+				work together to make them a reality.
+			</p>
+			<div class="footer__contact_left mb-m">
+				<div class="contact-info">
+					<span class="mb-m">chayashi@student.42.rio</span>
+					<span>(00) 00000-0000</span>
+						<ul class="mb-l">
+							<li>
+								<a href="https://www.instagram.com/caarlostol/"><img src="assets/instagram.svg" alt="Instagram" /></a>
+							</li>
+							<li>
+								<a href="https://www.linkedin.com/in/carlostolhayashida/"><img src="assets/linkedin.svg" alt="Linkedin" /></a>
+							</li>
+							<li>
+								<a href="#"><img src="assets/facebook.svg" alt="Facebook" /></a>
+							</li>
+						</ul>
+				</div>
+		</div>
+	</footer>
+
+	<!-- Script -->
+	<script src="scripts/index.js"></script>
+</body>
+</html>

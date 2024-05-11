@@ -1,0 +1,4 @@
+Pasta de entrega : ex02/
+Ficheiros para entregar : midLS
+Funções autorizadas : Nenhuma
+• Em um arquivo midLS, coloque a linha de comando que listará todos os arquivos e pastas da sua pasta atual (exceto pelos arquivos ocultos ou qualquer arquivo que comece com ponto - sim, isso inclui dois pontos, separados por uma vírgula.

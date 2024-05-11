@@ -13,7 +13,7 @@
   margin: 0 auto 6rem;
 }
 
-.skills .skills__content ul {
+.skills .skills__content .skills-ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   gap: 2rem;

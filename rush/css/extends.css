@@ -1,0 +1,12 @@
+@import './variables.css';
+@import './globals.css';
+
+@import './components/about.css';
+@import './components/footer.css';
+@import './components/header.css';
+@import './components/navbar.css';
+@import './components/projects.css';
+@import './components/skills.css';
+
+@import './profile-components/about-chayashi.css';
+@import './profile-components/about-thda-sil.css';

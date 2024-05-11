@@ -1,0 +1,8 @@
+Pasta de entrega : ex05/
+Ficheiros para entregar : tab.html
+Funções autorizadas : Nenhuma
+Faça uma página web com uma tabela de duas células como no exemplo a seguir:
+
+As restrições são as seguintes:
+• Cada célula da tabela contém o texto que você preferir.
+• Cada célula da tabela contém a cor que você preferir.

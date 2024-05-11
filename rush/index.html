@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Meta tags -->
+	<meta charset="UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<!-- Title -->
+	<title>Rush</title>
+	<!-- CSS -->
+	<link rel="stylesheet" href="css/extends.css"/>
+	<!-- Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet"/>
+</head>
+<body>
+
+	<!-- Navbar -->
+	<nav class="navbar">
+		<div class="navbar__content max-width mb-0">
+			<a href="#header">
+				<img height="50" width="100" src="assets/42.png" alt="Rush" />
+			</a>
+			<ul class="navbar__links">
+				<li><a href="#header">Home</a></li>
+				<li><a href="#about">Profiles</a></li>
+				<li><a href="#skills">chayashi</a></li>
+				<li><a href="#skills2">thada-sil</a></li>
+				<li><a href="#footer">Contact</a></li>
+			</ul>
+			<div class="navbar__mobile">
+				<img src="assets/menu.svg" alt="menu" class="burguer" />
+				<ul class="mobile__links">
+					<li><a href="#header">Home</a></li>
+					<li><a href="#about">Profiles</a></li>
+					<li><a href="#skills">chayashi</a></li>
+					<li><a href="#skills2">thada-sil</a></li>
+					<li><a href="#footer">Contact</a></li>
+				</ul>
+			</div>
+			<button class="btn btn-primary" onclick="toggleDarkMode()">Toggle dark mode</button>
+		</div>
+	</nav>
+
+	<!-- Header -->
+	<header id="header" class="max-width">
+		<div class="header__left">
+			<h1>Welcome to Web Discovery Rush</h1>
+			<p>
+				In this piscine, we discovered the principles os front-end web development using HTML 5, CSS 3 and JavaScript. Check our resumes bellow.
+			</p>
+			<a href="#about" class="btn btn-primary">More</a>
+		</div>
+		<div class="header__right">
+			<div class="header__image">
+				<img src="assets/42.jpg" alt="42" class="42 Rio" />
+			</div>
+		</div>
+	</header>
+
+	<!-- About -->
+	<main id="about" class="about max-width">
+		<section class="about__left">
+			<img src="assets/chayashi.png" alt="42" class="42" />
+			<h2 class="secondary-title">Carlos Tol Melo Hayashida</h2>
+			<p>Sofware Engineer</p>
+			<div class="center-about">
+				<a href="chayashi.html" class="btn btn-primary">Curriculum Vitae</a>
+			</div>
+		</section>
+		<section class="about__right">
+			<img src="assets/thda-sil.png" alt="42" class="42" />
+			<h2 class="secondary-title">Thalles da Silva Corrêa</h2>
+			<p>Sofware Engineer</p>
+			<div class="center-about">
+				<a href="thda-sil.html" class="btn btn-primary">Curriculum Vitae</a>
+			</div>
+		</section>
+	</main>
+
+	<!-- Skills -->
+	<section id="skills" class="skills">
+		<div class="skills__content max-width">
+			<h2 class="tertiary-title">chayashi resume</h2>
+			<p class="description">
+				Discover my skills and abilities
+			</p>
+			<ul>
+				<li class="skills__item">
+					<div class="image-container">
+						<img height="50" height="70" src="assets/cfn.png" alt="CFN" />
+					</div>
+					<h3>Brazilian Marine Corps</h3>
+					<p>
+						2014 - 2024
+					</p>
+				</li>
+				<li class="skills__item">
+					<div class="image-container">
+						<img height="40" height="70" src="assets/notebook.png" alt="42" />
+					</div>
+					<h3>Sofware Engineer</h3>
+					<p>
+						42 Rio student in training
+					</p>
+				</li>
+				<li class="skills__item">
+					<div class="image-container">
+						<img src="assets/files.png" alt="Gerenciamentos de versões" />
+					</div>
+					<h3>Git e GitHub</h3>
+					<p>
+						Experience in version management tools for projects control.
+					</p>
+				</li>
+			</ul>
+		</div>
+	</section>
+
+	<section id="skills2" class="skills">
+		<div class="skills__content max-width">
+			<h2 class="tertiary-title">thda-sil resume</h2>
+			<p class="description">
+				Discover my skills and abilities
+			</p>
+			<ul>
+				<li class="skills__item">
+					<div class="image-container">
+						<img height="50" height="70" src="assets/pmerj.png" alt="PMERJ" />
+					</div>
+					<h3>Rio de Janeiro Military Police</h3>
+					<p>
+						2024 - Present
+					</p>
+				</li>
+				<li class="skills__item">
+					<div class="image-container">
+						<img height="40" height="70" src="assets/notebook.png" alt="42" />
+					</div>
+					<h3>Sofware Engineer</h3>
+					<p>
+						42 Rio student in training
+					</p>
+				</li>
+				<li class="skills__item">
+					<div class="image-container">
+						<img src="assets/files.png" alt="Gerenciamentos de versões" />
+					</div>
+					<h3>Git e GitHub</h3>
+					<p>
+						Experience in version management tools for projects control.
+					</p>
+				</li>
+			</ul>
+		</div>
+	</section>
+
+	<!-- Footer -->
+	<footer id="footer">
+		<div class="footer__content max-width mb-0">
+			<h2 class="tertiary-title mb-s">Contact us</h2>
+			<p class="mb-m">
+				We would be happy to know more about your projects and how we can
+				work together to make them a reality.
+			</p>
+			<div class="footer__contact_left mb-m">
+				<div class="contact-info">
+					<span class="mb-m">chayashi@student.42.rio</span>
+					<span>(00) 00000-0000</span>
+						<ul class="mb-l">
+							<li>
+								<a href="https://www.instagram.com/caarlostol/"><img src="assets/instagram.svg" alt="Instagram" /></a>
+							</li>
+							<li>
+								<a href="https://www.linkedin.com/in/carlostolhayashida/"><img src="assets/linkedin.svg" alt="Linkedin" /></a>
+							</li>
+							<li>
+								<a href="#"><img src="assets/facebook.svg" alt="Facebook" /></a>
+							</li>
+						</ul>
+				</div>
+			<div class="contact-info">
+				<span class="mb-m">thda-sil@student.42.rio</span>
+				<span>(00) 00000-0000</span>
+					<ul class="mb-l">
+						<li>
+							<a href="https://www.instagram.com/thdslv_c/"><img src="assets/instagram.svg" alt="Instagram" /></a>
+						</li>
+						<li>
+							<a href="https://www.linkedin.com/in/thalles-da-silva-095a47199/"><img src="assets/linkedin.svg" alt="Linkedin" /></a>
+						</li>
+						<li>
+							<a href="#"><img src="assets/facebook.svg" alt="Facebook" /></a>
+						</li>
+					</ul>
+			</div>
+		</div>
+	</footer>
+
+	<!-- Script -->
+	<script src="scripts/index.js"></script>
+</body>
+</html>

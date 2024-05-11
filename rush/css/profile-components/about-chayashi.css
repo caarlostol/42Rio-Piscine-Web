@@ -1,0 +1,21 @@
+.about-chayashi {
+	display: flex;
+	justify-content: center;
+	align-items: center; 
+	height: 100vh; 
+  }
+  
+  .center-about-chayashi {
+	text-align: center; 
+  }
+  
+  .center-about-chayashi img {
+	max-width: 100%;
+  }
+  
+  @media only screen and (max-width: 768px) {
+	.about-chayashi {
+	  flex-direction: column;
+	  align-items: center;
+	}
+  }

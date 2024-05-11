@@ -1,0 +1,6 @@
+Pasta de entrega : ex01/
+Ficheiros para entregar : missaoweb.html
+Funções autorizadas : All
+• Crie um arquivo missaoweb.html.
+• Mostre "Missão Web"no título - maior - e centralizado.
+• Abra o arquivo no seu navegador. Você deve ver:

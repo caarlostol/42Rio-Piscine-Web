@@ -1,0 +1,4 @@
+Pasta de entrega : ex01/
+Ficheiros para entregar : z
+Funções autorizadas : Nenhuma
+• Crie um arquivo chamado z que retorna "Z", seguido de uma nova linha, sempre que o comando cat é usado nele.

@@ -1,0 +1,4 @@
+Pasta de entrega : ex00/
+Ficheiros para entregar : backgroound.html, backgroound.css, *
+Funções autorizadas : HTML, CSS, JS
+Faça uma simples página web com um botão. Quando clicarmos nesse botão o background da nossa página vai mudar de cor. A cor usada pode ser aleatória.

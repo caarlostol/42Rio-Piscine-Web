@@ -1,0 +1,4 @@
+Pasta de entrega : ex04/
+Ficheiros para entregar : argv.sh
+Funções autorizadas : Nenhuma
+• Escreva um programa argv.sh que exiba os argumentos passados a este programa (máximo de 3).

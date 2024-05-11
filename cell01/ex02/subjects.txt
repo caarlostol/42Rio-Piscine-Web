@@ -1,0 +1,7 @@
+Pasta de entrega : ex03/
+Ficheiros para entregar : missaoweb.html
+Funções autorizadas : All
+• Copie o arquivo da célula anterior, vamos adicionar um link nele.
+• Sua primeira imagem deve conter um link.
+• Quando você clicar na primeira imagem o navegador vai para
+https://www.youtube.com/watch?v=INscMGmhmX4

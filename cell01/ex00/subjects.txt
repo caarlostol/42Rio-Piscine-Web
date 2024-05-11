@@ -1,0 +1,6 @@
+Pasta de entrega : ex00/
+Ficheiros para entregar : helloworld.html
+Funções autorizadas : Nenhuma
+• Crie um arquivo helloworld.html.
+• Dentro desse arquivo mostre "Hello World"
+• Para ver o resultado abra o arquivo no seu navegador. Você deve ver Hello World.

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="background.css">
+    <title>Background</title>
+    <script>
+        function   change_color()
+        {
+            var colors = ["#FF5733", "#33FF57", "#5733FF", "#FF33F9", "#33FFF9", "#FF5733", "#33FF57", "#5733FF", "#FF33F9", "#33FFF9"]
+            var color = colors[Math.floor(Math.random() * colors.length)]
+            document.body.style.backgroundColor = color;
+        }
+    </script>
+    
+</head>
+
+<body>
+    <button id="changeColor" onclick="change_color()">Click here to change color</button>
+</body>
+</html>
